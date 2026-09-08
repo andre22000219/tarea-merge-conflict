@@ -1,5 +1,5 @@
 function sumar(a, b)
-//prueba
+//Persona A:validacion agregada
  { return a + b; }
 function restar(a, b) { return a - b; }
 function multiplicar(a, b) { return a * b; }
